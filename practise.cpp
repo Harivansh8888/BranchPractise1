@@ -2,7 +2,7 @@
 using namespace std;
 class simple
 {
-	public:
+	public:odhoiqwehfoiwehfoiewhoifhewoi
 		void Name()
 		{
 			string name;
